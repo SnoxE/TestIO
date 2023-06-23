@@ -10,8 +10,7 @@
       ]
     }
   ],
-
-  "rack/2": [
+  "rack": [
     {
       "capacity": 20,
       "slots": [
