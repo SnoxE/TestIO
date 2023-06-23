@@ -10,76 +10,7 @@
       ]
     }
   ],
-  "rack/1": [
-    {
-      "capacity": 20,
-      "slots": [
-        {
-          "name": "<itemName1>",
-          "position": 2,
-          "reserved": 1,
-          "arriveDate": "23.06.2023",
-          "expiryDate": "23.06.2024"
-        },
-        {
-          "name": "<itemName2>",
-          "position": 1,
-          "reserved": 1,
-          "arriveDate": "23.07.2023",
-          "expiryDate": "23.12.2024"
-        },
-        {
-          "name": "<itemName3>",
-          "position": 2,
-          "reserved": 1,
-          "arriveDate": "23.06.2023",
-          "expiryDate": "1.01.2030"
-        },
-        {
-          "name": "<itemName4>",
-          "position": 2,
-          "reserved": 1,
-          "arriveDate": "23.06.2023",
-          "expiryDate": "23.06.2024"
-        },
-        {
-          "name": "<itemName5>",
-          "position": 2,
-          "reserved": 1,
-          "arriveDate": "23.06.2023",
-          "expiryDate": "23.06.2024"
-        }
-      ]
-    }
-  ],
-  "rack/2": [
-    {
-      "capacity": 20,
-      "slots": [
-        {
-          "name": "<buty>",
-          "position": 2,
-          "reserved": 1,
-          "arriveDate": "1.01.2000",
-          "expiryDate": "23.06.2000"
-        }
-      ]
-    }
-  ],
-  "rack/123": [
-    {
-      "capacity": 40,
-      "slots": [
-        {
-          "name": "<pierze>",
-          "position": 2,
-          "reserved": 1,
-          "arriveDate": "23.06.2023",
-          "expiryDate": "23.06.3024"
-        }
-      ]
-    }
-  ],
+
   "profile": {
     "name": "typicode"
   }
