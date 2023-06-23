@@ -24,20 +24,6 @@
       ]
     }
   ],
-  "rack/123": [
-    {
-      "capacity": 40,
-      "slots": [
-        {
-          "name": "<pierze>",
-          "position": 2,
-          "reserved": 1,
-          "arriveDate": "23.06.2023",
-          "expiryDate": "23.06.3024"
-        }
-      ]
-    }
-  ],
   "profile": {
     "name": "typicode"
   }
