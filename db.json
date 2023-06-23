@@ -11,6 +11,34 @@
     }
   ],
 
+  "rack/2": [
+    {
+      "capacity": 20,
+      "slots": [
+        {
+          "name": "<buty>",
+          "position": 2,
+          "reserved": 1,
+          "arriveDate": "1.01.2000",
+          "expiryDate": "23.06.2000"
+        }
+      ]
+    }
+  ],
+  "rack/123": [
+    {
+      "capacity": 40,
+      "slots": [
+        {
+          "name": "<pierze>",
+          "position": 2,
+          "reserved": 1,
+          "arriveDate": "23.06.2023",
+          "expiryDate": "23.06.3024"
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
