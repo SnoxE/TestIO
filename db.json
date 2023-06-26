@@ -12,6 +12,7 @@
   ],
   "rack1": [
     {
+      "id": 1,
       "capacity": 20,
       "slots": [
         {
@@ -54,6 +55,7 @@
   ],
   "rack2": [
     {
+      "id": 2,
       "capacity": 20,
       "slots": [
         {
@@ -68,6 +70,7 @@
   ],
   "rack123": [
     {
+      "id": 123,
       "capacity": 40,
       "slots": [
         {
